@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/ts-template/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-template/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/template)](https://www.npmjs.com/package/@philiprehberger/template)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/philiprehberger/ts-template)](LICENSE)
 
 Lightweight string template engine with safe interpolation, conditionals, and loops.
 
