@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/ts-template/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/ts-template/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/@philiprehberger/template)](https://www.npmjs.com/package/@philiprehberger/template)
 [![License](https://img.shields.io/github/license/philiprehberger/ts-template)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Lightweight string template engine with safe interpolation, conditionals, and loops.
 
