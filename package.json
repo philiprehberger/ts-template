@@ -1,6 +1,6 @@
 {
   "name": "@philiprehberger/template",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Lightweight string template engine with safe interpolation, conditionals, and loops",
   "type": "module",
   "main": "./dist/index.cjs",
